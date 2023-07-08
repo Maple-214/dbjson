@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("64658a89d68471526738d3c6"),
+    "userId" : NumberInt(10000),
+    "username" : "admin",
+    "nickname" : "karuizawa",
+    "password" : "123456",
+    "avatar" : "https://lh3.googleusercontent.com/a/AGNmyxbGOMjO1xRphc6QQPV02u2LlQqeDoS3wgwEyZnK=s96-c-rg-br100",
+    "introduction" : "hello",
+    "email" : NumberInt(12345),
+    "phone" : NumberInt(12345),
+    "roles" : [
+        "admin"
+    ]
+}
